@@ -56,7 +56,7 @@ const Contact = () => {
       <div>
         <img
           className="absolute right-[200px] mt-36 h-[300px]"
-          src="src/assets/images/Contact-unscreen.gif"
+          src="assets/images/Contact-unscreen.gif"
           alt="Contact animation"
         />
       </div>

@@ -65,70 +65,70 @@ const Skills = () => {
             {/* Image set */}
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-html-48.png"
+                src="assets/icons/icons8-html-48.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-github-64.png"
+                src="assets/icons/icons8-github-64.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-js-48.png"
+                src="assets/icons/icons8-js-48.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-react-80.png"
+                src="assets/icons/icons8-react-80.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-nodejs-144.png"
+                src="assets/icons/icons8-nodejs-144.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-express-js-96.png"
+                src="assets/icons/icons8-express-js-96.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-tailwind-css-96.png"
+                src="assets/icons/icons8-tailwind-css-96.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/gsap-removebg-preview.png"
+                src="assets/icons/gsap-removebg-preview.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-mongo-db-96.png"
+                src="assets/icons/icons8-mongo-db-96.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-css-48.png"
+                src="assets/icons/icons8-css-48.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
@@ -136,35 +136,35 @@ const Skills = () => {
             {/* Duplicating images for smooth transition */}
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-html-48.png"
+                src="assets/icons/icons8-html-48.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-github-64.png"
+                src="assets/icons/icons8-github-64.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-js-48.png"
+                src="assets/icons/icons8-js-48.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-react-80.png"
+                src="assets/icons/icons8-react-80.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />
             </div>
             <div className="w-[100px]">
               <img
-                src="src/assets/icons/icons8-nodejs-144.png"
+                src="assets/icons/icons8-nodejs-144.png"
                 alt=""
                 className="w-[100px] h-[100px]"
               />

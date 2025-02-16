@@ -4,27 +4,27 @@ import React from 'react';
 const projectData = [
   {
     title: '🌟Ai Code Reviewer MERN',
-    image: 'src/assets/images/CC.jpeg',
+    image: 'assets/images/CC.jpeg',
     link: 'https://your-ai-code-reviewer-link.com'
   },
   {
     title: '🌟Notes Saver App Using React',
-    image: 'src/assets/images/Notes.png',
+    image: 'assets/images/Notes.png',
     link: 'https://paste-app-xi-seven.vercel.app/'
   },
   {
     title: '🌟FAAMS Website',
-    image: 'src/assets/images/Famms.png',
+    image: 'assets/images/Famms.png',
     link: 'https://famms-nine.vercel.app/'
   },
   {
     title: 'Locomotive Website',
-    image: 'src/assets/images/Locomotive.png',
-    link: 'src/assets/images/Locomotive.png'
+    image: 'assets/images/Locomotive.png',
+    link: 'assets/images/Locomotive.png'
   },
   {
     title: '🌟LeetCode Metric App',
-    image: 'src/assets/images/LeetCode.png',
+    image: 'assets/images/LeetCode.png',
     link: 'https://leet-code-metric-app.vercel.app/'
   }
 ];

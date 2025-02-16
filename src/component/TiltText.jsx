@@ -12,7 +12,7 @@ const TiltText = () => {
 
         <div>
 
-          <img className='absolute right-[200px] top-[160px] h-[300px]' src="src\assets\images\welcome-unscreen.gif" alt=""/>   
+          <img className='absolute right-[200px] top-[160px] h-[300px]' src="assets/images/welcome-unscreen.gif" alt=""/>   
         </div>
 
    </div>

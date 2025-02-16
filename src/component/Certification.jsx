@@ -5,27 +5,27 @@ const certificateData = [
   {
     title: 'Cloud Computing',
     description: 'Issued By NPTEL, IIT Kharagpur',
-    image: 'src/assets/images/CC.jpeg',
+    image: 'assets/images/CC.jpeg',
   },
   {
     title: 'SQL And Relational Database',
     description: 'Issued by IBM, Cognitiveclass.ai',
-    image: 'src/assets/images/IBM.jpeg',
+    image: 'assets/images/IBM.jpeg',
   },
   {
     title: 'Micro Certification',
     description: 'Issued by Service Now',
-    image: 'src/assets/images/SN.png',
+    image: 'assets/images/SN.png',
   },
   {
     title: 'Postman API Fundamental Student Expert',
     description: 'Issued By Postman Academy',
-    image: 'src/assets/images/PAPI.jpeg',
+    image: 'assets/images/PAPI.jpeg',
   },
   {
     title: 'Entrepreneurship & IP Strategy',
     description: 'Issued By NPTEL, IIT Kharagpur',
-    image: 'src/assets/images/E&IP.jpeg',
+    image: 'assets/images/E&IP.jpeg',
   }
 ];
 

@@ -22,7 +22,7 @@ const Page1 = () => {
 
          <Header/>
 
-        <img className='absolute top-4 left-4 h-[150px] w-[150px]' src="src\assets\images\logo.png" alt="image" />
+        <img className='absolute top-4 left-4 h-[150px] w-[150px]' src="assets/images/logo.png" alt="image" />
 
         
 
