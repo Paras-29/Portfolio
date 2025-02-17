@@ -20,7 +20,7 @@ const projectData = [
   {
     title: 'Locomotive Website',
     image: 'assets/images/Locomotive.png',
-    link: 'assets/images/Locomotive.png'
+    link: 'https://locomotive-iota.vercel.app/'
   },
   {
     title: '🌟LeetCode Metric App',
