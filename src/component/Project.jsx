@@ -4,8 +4,8 @@ import React from 'react';
 const projectData = [
   {
     title: '🌟Ai Code Reviewer MERN',
-    image: 'assets/images/CC.jpeg',
-    link: 'https://your-ai-code-reviewer-link.com'
+    image: 'assets/images/cr.png',
+    link: 'https://code-reviewer-five.vercel.app/'
   },
   {
     title: '🌟Notes Saver App Using React',
@@ -18,7 +18,7 @@ const projectData = [
     link: 'https://famms-nine.vercel.app/'
   },
   {
-    title: 'Locomotive Website',
+    title: '🌟Locomotive Website',
     image: 'assets/images/Locomotive.png',
     link: 'https://locomotive-iota.vercel.app/'
   },
